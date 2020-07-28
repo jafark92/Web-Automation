@@ -7,5 +7,5 @@ URLs =
 - "https://www.vectonemobile.co.uk/vmfreesimorder/step2"
 - "https://freesim.vodafone.co.uk/check-out-payg"
 
-Script will go on these urls and fill the form. Address are define on excel files while name and email is random.
+Script will go on these urls and fill the form. Address are define on excel files while name and email are random.
 
