@@ -9,3 +9,8 @@ URLs =
 
 Script will go on these urls and fill the form. Address are define on excel files while name and email are random.
 
+*Note*
+
+Developers can ask for any help regarding script and any suggestion for correction will be appreciated.
+
+Thanks
